@@ -256,6 +256,7 @@ Called when an error occurs.
 | 5    | Too long private-use area, expected at most 8 characters               |
 | 6    | Found superfluous content after tag                                    |
 | 7    | Empty private-use area, expected at least 1 subtag                     |
+| 8    | Duplicate singleton, singletons must not be repeated                   |
 
 ## Types
 
